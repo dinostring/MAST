@@ -1,9 +1,10 @@
 # MAST: Multi-Scale Feature Enhancement and Weighted Style Contrastive Learning for Transformer-Based Arbitrary Style Transfer
 
 > **Status:** Under Review
+
 > **Coming Soon** — Code and pretrained models will be released upon acceptance.
 
-⭐ **Star this repo now** to get notified when we release the full implementation and pretrained models!
+**Star this repo now** to get notified when we release the full implementation and pretrained models!
 
 ---
 
